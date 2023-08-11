@@ -1,10 +1,16 @@
 {
   "files": {
-    "main.js": "/portfolio-react/static/js/main.218c8032.js",
+    "main.css": "/portfolio-react/static/css/main.3c02a699.css",
+    "main.js": "/portfolio-react/static/js/main.728b8705.js",
+    "static/media/space_station.png": "/portfolio-react/static/media/space_station.cb4a3aacefc5b25f8286.png",
+    "static/media/sun.png": "/portfolio-react/static/media/sun.7a9d223a0c9da007d273.png",
+    "static/media/tamk_logo.png": "/portfolio-react/static/media/tamk_logo.dd270f247e9072424fc7.png",
     "index.html": "/portfolio-react/index.html",
-    "main.218c8032.js.map": "/portfolio-react/static/js/main.218c8032.js.map"
+    "main.3c02a699.css.map": "/portfolio-react/static/css/main.3c02a699.css.map",
+    "main.728b8705.js.map": "/portfolio-react/static/js/main.728b8705.js.map"
   },
   "entrypoints": [
-    "static/js/main.218c8032.js"
+    "static/css/main.3c02a699.css",
+    "static/js/main.728b8705.js"
   ]
 }
