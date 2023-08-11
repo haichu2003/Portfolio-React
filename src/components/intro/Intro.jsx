@@ -1,5 +1,7 @@
 import "./intro.css";
-// import Me from "../../img/Chu Hai.jpg"
+
+// import image here
+import space_station from "../../img/space_station.png"
 
 const Intro = () => {
     return (
@@ -18,11 +20,11 @@ const Intro = () => {
                         </div>
                     </div>
                     <p className="i-desc">
-                        This text is just a small prompt that will later be
-                        replaced by some short description for my dream job
+                            I am currently a second-year software engineering student in TAMK, Tampere,<br></br>
+                            and I am looking for a trainee position as a ML Engineer, AI Engineer or Backend Developer
                     </p>
                 </div>
-                <svg
+                {/* <svg
                     width="75"
                     height="75"
                     viewBox="0 0 75 75"
@@ -77,12 +79,12 @@ const Intro = () => {
                             />
                         </g>
                     </g>
-                </svg>
+                </svg> */}
             </div>
-            <div className="i-right">
+            {/* <div className="i-right">
                 <div className="i-bg"></div>
-                {/* <img src="" alt="" className="i-img" /> */}
-            </div>
+                <img src="" alt="" className="i-img" />
+            </div> */}
         </div>
     );
 };
