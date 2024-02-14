@@ -35,7 +35,7 @@ const About = () => {
                     <div className="a-award-texts">
                         <h4 className="a-award-title">Study at TAMK</h4>
                         <p className="a-award-desc">
-                            I am currently a second-year student majoring in
+                            I am a second-year student majoring in
                             software engineer.<br></br>
                             Although being a second-year student, I have
                             finished <br />

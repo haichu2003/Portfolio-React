@@ -13,11 +13,20 @@ function App() {
             style={{
                 backgroundColor: darkMode ? "#222" : "white",
                 color: darkMode ? "white" : "#222",
+                alignContent: "center",
+                alignItems: "center",
             }}
         >
-            <Toggle></Toggle>
-            <Intro></Intro>
-            <About></About>
+            <div
+                style={{
+                    width: "70%",
+                    margin: "auto",
+                }}
+            >
+                <Toggle />
+                <Intro />
+                <About />
+            </div>
         </div>
     );
 }
